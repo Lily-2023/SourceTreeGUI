@@ -1,0 +1,6 @@
+Hello
+<<<<<<< HEAD
+hello from local space and local directory
+=======
+hello from github
+>>>>>>> 58fb6cbffcdaad123aaabdc6f3807753321c71e9
